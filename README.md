@@ -1,2 +1,2 @@
-# django-online-exam-systme
+# django-online-exam-system
 Django
